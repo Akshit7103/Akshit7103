@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akshit7103](https://github.com/Akshit7103)
 
 - 📫 How to reach me **akshit.mahajan0703@gmail.com**
 
