@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="150" viewBox="0 0 620 150" fill="none" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" role="img" aria-label="GitHub activity stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" fill="none" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" role="img" aria-label="GitHub activity stats">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#173540"/>
@@ -13,28 +13,21 @@
       <feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#000000" flood-opacity="0.40"/>
     </filter>
   </defs>
-  <rect x="10" y="10" width="600" height="130" rx="16" fill="url(#bg)" stroke="#36BCF7" stroke-opacity="0.3" filter="url(#sh)"/>
+  <rect x="10" y="10" width="420" height="130" rx="16" fill="url(#bg)" stroke="#36BCF7" stroke-opacity="0.3" filter="url(#sh)"/>
   <rect x="32" y="34" width="9" height="9" rx="2" fill="#36BCF7"/>
   <text x="50" y="42" font-size="13" font-weight="700" letter-spacing="2" fill="#8fb3c6">GITHUB ACTIVITY</text>
-  <line x1="210" y1="60" x2="210" y2="120" stroke="#2c5364" stroke-opacity="0.55"/>
-  <line x1="410" y1="60" x2="410" y2="120" stroke="#2c5364" stroke-opacity="0.55"/>
+  <line x1="220" y1="60" x2="220" y2="120" stroke="#2c5364" stroke-opacity="0.55"/>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.20s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.20s" fill="freeze"/>
-    <text x="110" y="98" text-anchor="middle" font-size="33" font-weight="800" fill="#36BCF7">347</text>
-    <text x="110" y="122" text-anchor="middle" font-size="11.5" letter-spacing="0.5" fill="#8fb3c6">Total Commits</text>
+    <text x="120" y="98" text-anchor="middle" font-size="34" font-weight="800" fill="#36BCF7">348</text>
+    <text x="120" y="122" text-anchor="middle" font-size="11.5" letter-spacing="0.5" fill="#8fb3c6">Total Commits</text>
   </g>
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.38s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.38s" fill="freeze"/>
-    <text x="310" y="98" text-anchor="middle" font-size="33" font-weight="800" fill="#eaf4f8">452</text>
-    <text x="310" y="122" text-anchor="middle" font-size="11.5" letter-spacing="0.5" fill="#8fb3c6">Contributions · 12 mo</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <text x="320" y="98" text-anchor="middle" font-size="34" font-weight="800" fill="#eaf4f8">453</text>
+    <text x="320" y="122" text-anchor="middle" font-size="11.5" letter-spacing="0.5" fill="#8fb3c6">Contributions · 12 mo</text>
   </g>
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.56s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.56s" fill="freeze"/>
-    <text x="510" y="98" text-anchor="middle" font-size="33" font-weight="800" fill="#eaf4f8">2</text>
-    <text x="510" y="122" text-anchor="middle" font-size="11.5" letter-spacing="0.5" fill="#8fb3c6">Languages</text>
-  </g>
-  <rect x="10" y="138" width="600" height="2" fill="url(#edge)"/>
+  <rect x="10" y="138" width="420" height="2" fill="url(#edge)"/>
 </svg>
