@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Akshit7103">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akshit%20Mahajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18" alt="header" />
+  <img width="100%" src="https://raw.githubusercontent.com/Akshit7103/Akshit7103/main/assets/banner.svg" alt="Akshit Mahajan — AI / ML Engineer" />
 </a>
 
 <!-- ─────────────────────────  TYPING INTRO  ───────────────────────── -->
