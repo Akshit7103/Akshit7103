@@ -156,16 +156,27 @@ Data-driven **football analytics** — exploring match and player performance da
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshit7103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit7103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<!-- ⚠️ STATS + TOP-LANGS TEMPORARILY DISABLED ⚠️
+     The public github-readme-stats.vercel.app instance is down (HTTP 503).
+     After deploying your OWN instance on Vercel, replace
+     STATS-INSTANCE.vercel.app below with your deployment domain and
+     un-comment these two lines. -->
+<!--
+<img height="165" src="https://STATS-INSTANCE.vercel.app/api?username=Akshit7103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://STATS-INSTANCE.vercel.app/api/top-langs/?username=Akshit7103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 
 <br/>
+-->
 
 <img src="https://streak-stats.demolab.com?user=Akshit7103&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
+<!-- ⚠️ TROPHIES TEMPORARILY DISABLED — public github-profile-trophy.vercel.app is down (HTTP 402).
+     Re-enable after self-hosting, or leave off. -->
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=Akshit7103&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+-->
 
 <br/><br/>
 
