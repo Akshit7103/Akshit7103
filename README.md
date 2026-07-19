@@ -19,8 +19,6 @@
 <!-- ─────────────────────────  QUICK LINKS  ───────────────────────── -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitmahajan7)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AkshitMahajan77)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_akshitm)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshit.mahajan0703@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshit7103&label=Profile%20Views&color=36BCF7&style=for-the-badge)
