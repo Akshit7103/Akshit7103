@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Akshit7103">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akshit%20Mahajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI&descAlignY=58&descSize=18" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akshit%20Mahajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18" alt="header" />
 </a>
 
 <!-- ─────────────────────────  TYPING INTRO  ───────────────────────── -->
@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+raw+data+into+real+decisions;Building+with+Python%2C+TensorFlow+%26+OpenCV;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%87%AE%F0%9F%87%B3;I+build+LLM+agents%2C+RAG+%26+vision+systems;40%2B+end-to-end+AI+apps+shipped+%F0%9F%9A%80;Python+%C2%B7+FastAPI+%C2%B7+OpenAI+%C2%B7+PyTorch" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,24 +36,42 @@
 ```python
 class AkshitMahajan:
     def __init__(self):
-        self.role     = "Data Science & ML Enthusiast"
+        self.role     = "AI / ML Engineer"
         self.location = "India 🇮🇳"
-        self.focus    = ["Machine Learning", "Computer Vision", "Data Analytics"]
-        self.stack    = ["Python", "TensorFlow", "OpenCV", "Scikit-learn"]
-        self.mindset  = "Turn messy data into decisions people can act on."
+        self.builds   = ["LLM agents", "RAG systems", "Computer vision", "Voice AI"]
+        self.stack    = ["Python", "FastAPI", "OpenAI", "PyTorch"]
+        self.shipped  = "40+ end-to-end AI apps — data → model → deployed UI"
 
-    def current_goals(self):
-        return [
-            "🔭 Building real-time CV & predictive ML systems",
-            "🌱 Deepening MLOps, deep learning & deployment",
-            "🤝 Open to collaboration on impactful DS/AI projects",
-        ]
+    def how_i_work(self):
+        return "AI reasons, code decides — deterministic, testable, shippable."
 ```
 
-- 🔭 I build end-to-end ML projects — from data collection to deployed, interactive apps
-- 🎯 Interests: **predictive analytics**, **computer vision**, and **accessibility tech**
-- 💬 Ask me about **Python, ML pipelines, Streamlit dashboards, or model building**
-- ⚡ Fun fact: I love turning "what if we could predict…" ideas into working demos
+- 🔭 I build **end-to-end AI applications** — backend, model/agent logic, web UI, and deployment
+- 🤖 Deep in **LLMs & agentic systems**: multi-agent pipelines, tool/function-calling, structured outputs, and RAG
+- 👁️ I also ship **computer vision** (detection, tracking, face recognition, OCR) and **voice AI** (real-time speech-to-speech)
+- 💬 Ask me about **Python, FastAPI, OpenAI/Ollama, RAG pipelines, or vision systems**
+- ⚡ **40+ production apps** built — I love turning "what if we could…" ideas into working, deployed tools
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         WHAT I BUILD                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 What I Build
+
+<div align="center">
+
+**40+ production-grade AI applications** across six areas — each shipped end-to-end, from data to a live, interactive app.
+
+</div>
+
+| | Area | What that looks like |
+|:-:|------|----------------------|
+| 🤖 | **LLM & Agentic AI** | Multi-agent pipelines, tool/function-calling, structured JSON outputs, live streaming (SSE/NDJSON), OpenAI + local Ollama models |
+| 🔎 | **RAG & NLP** | Hybrid dense+sparse retrieval, rerankers, semantic chunking, citation-grounded Q&A, sentiment analysis |
+| 👁️ | **Computer Vision** | Real-time object detection & tracking (YOLOv8 + BoT-SORT), face recognition, OCR, image forensics |
+| 🎙️ | **Voice AI** | Real-time speech-to-speech agents, telephony bots, audio transcription (Whisper) |
+| 📊 | **ML & Analytics** | Classification, clustering, anomaly detection, forecasting, explainability (SHAP), interactive dashboards |
+| 🌐 | **Full-Stack & Deploy** | FastAPI / Flask / Next.js apps, SQL + vector databases, Docker & Render deployment |
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                             -->
@@ -66,32 +84,53 @@ class AkshitMahajan:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Machine Learning & Data**
+**AI & LLMs**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/RAG%20%2F%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**ML & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Visualization & Apps**
+**Computer Vision & Voice**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**RAG & Vector DBs**
+
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+**Backend & Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Tools & Platforms**
+**Databases & DevOps**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -99,7 +138,7 @@ class AkshitMahajan:
 <!--                       FEATURED PROJECTS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 <table>
   <tr>
@@ -116,7 +155,7 @@ Real-time **American Sign Language → speech** converter. Recognizes hand gestu
     <td width="50%" valign="top">
 
 ### 📈 STOCKWAVE
-Stock-market trend prediction combining **ML models** with **sentiment analysis** on real-time market data, plus rich visualizations.
+Trend prediction combining **ML models** with **NLP sentiment analysis** on real-time data streams, plus rich interactive visualizations.
 
 `Jupyter` · `Scikit-learn` · `NLP` · `Pandas`
 
@@ -128,7 +167,7 @@ Stock-market trend prediction combining **ML models** with **sentiment analysis*
     <td width="50%" valign="top">
 
 ### 💳 INSIGHTMAX
-**Financial customer segmentation** using clustering & decision-tree models, surfaced through **Streamlit** and **Power BI** dashboards.
+**Customer segmentation** using clustering & decision-tree models, surfaced through **Streamlit** and **Power BI** dashboards.
 
 `Clustering` · `Power BI` · `Streamlit` · `Pandas`
 
@@ -138,7 +177,7 @@ Stock-market trend prediction combining **ML models** with **sentiment analysis*
     <td width="50%" valign="top">
 
 ### ⚽ Football-Analysis
-Data-driven **football analytics** — exploring match and player performance data to uncover patterns and insights.
+Data-driven **sports analytics** — exploring match and player-performance data to uncover patterns and insights.
 
 `Python` · `Pandas` · `Data Viz`
 
@@ -147,6 +186,10 @@ Data-driven **football analytics** — exploring match and player performance da
   </td>
   </tr>
 </table>
+
+<div align="center">
+<sub>💡 Beyond these public repos, I've shipped <b>40+ production AI applications</b> spanning LLM agents, RAG, computer vision, and voice AI.</sub>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        GITHUB STATS                             -->
@@ -197,7 +240,7 @@ Data-driven **football analytics** — exploring match and player performance da
 
 <div align="center">
 
-I'm always open to collaborating on **data science, ML, and AI** projects — or just chatting about cool ideas.
+I'm always open to collaborating on **AI, ML, and full-stack** projects — or just chatting about cool ideas.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitmahajan7)
 [![Email](https://img.shields.io/badge/Say_Hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshit.mahajan0703@gmail.com)
