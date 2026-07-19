@@ -81,10 +81,6 @@
 <br/>
 -->
 
-<img src="https://streak-stats.demolab.com?user=Akshit7103&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
 <!-- ⚠️ TROPHIES TEMPORARILY DISABLED — public github-profile-trophy.vercel.app is down (HTTP 402).
      Re-enable after self-hosting, or leave off. -->
 <!--
