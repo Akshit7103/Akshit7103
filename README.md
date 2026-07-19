@@ -31,24 +31,13 @@
 
 ## 🧠 About Me
 
-```python
-class AkshitMahajan:
-    def __init__(self):
-        self.role     = "AI / ML Engineer"
-        self.location = "India 🇮🇳"
-        self.builds   = ["LLM agents", "RAG systems", "Computer vision", "Voice AI"]
-        self.stack    = ["Python", "FastAPI", "OpenAI", "PyTorch"]
-        self.shipped  = "40+ end-to-end AI apps — data → model → deployed UI"
-
-    def how_i_work(self):
-        return "AI reasons, code decides — deterministic, testable, shippable."
-```
+<div align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/Akshit7103/Akshit7103/main/assets/about.svg" alt="About Akshit Mahajan" />
+</div>
 
 - 🔭 I build **end-to-end AI applications** — backend, model/agent logic, web UI, and deployment
-- 🤖 Deep in **LLMs & agentic systems**: multi-agent pipelines, tool/function-calling, structured outputs, and RAG
-- 👁️ I also ship **computer vision** (detection, tracking, face recognition, OCR) and **voice AI** (real-time speech-to-speech)
-- 💬 Ask me about **Python, FastAPI, OpenAI/Ollama, RAG pipelines, or vision systems**
-- ⚡ **40+ production apps** built — I love turning "what if we could…" ideas into working, deployed tools
+- 🤖 Deep in **LLM & agentic systems**, **RAG**, **computer vision**, and **voice AI**
+- ⚡ **40+ production apps** shipped — I love turning "what if we could…" ideas into working tools
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         WHAT I BUILD                            -->
