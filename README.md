@@ -98,63 +98,6 @@ class AkshitMahajan:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤟 SCIENCE2SPEECH
-Real-time **American Sign Language → speech** converter. Recognizes hand gestures from webcam input using **MediaPipe** + deep learning and speaks them aloud.
-
-`Python` · `MediaPipe` · `TensorFlow` · `OpenCV`
-
-[**→ View Project**](https://github.com/Akshit7103/SCIENCE2SPEECH-ASL-Real-Time-Gesture-to-Speech-Converter)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 📈 STOCKWAVE
-Trend prediction combining **ML models** with **NLP sentiment analysis** on real-time data streams, plus rich interactive visualizations.
-
-`Jupyter` · `Scikit-learn` · `NLP` · `Pandas`
-
-[**→ View Project**](https://github.com/Akshit7103/STOCKWAVE-Stock-Market-Prediction-with-Sentiment-Analysis)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💳 INSIGHTMAX
-**Customer segmentation** using clustering & decision-tree models, surfaced through **Streamlit** and **Power BI** dashboards.
-
-`Clustering` · `Power BI` · `Streamlit` · `Pandas`
-
-[**→ View Project**](https://github.com/Akshit7103/INSIGHTMAX-Financial-Customer-Segmentation-with-Power-BI)
-
-  </td>
-    <td width="50%" valign="top">
-
-### ⚽ Football-Analysis
-Data-driven **sports analytics** — exploring match and player-performance data to uncover patterns and insights.
-
-`Python` · `Pandas` · `Data Viz`
-
-[**→ View Project**](https://github.com/Akshit7103?tab=repositories)
-
-  </td>
-  </tr>
-</table>
-
-<div align="center">
-<sub>💡 Beyond these public repos, I've shipped <b>40+ production AI applications</b> spanning LLM agents, RAG, computer vision, and voice AI.</sub>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
