@@ -21,8 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitmahajan7)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshit.mahajan0703@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshit7103&label=Profile%20Views&color=36BCF7&style=for-the-badge)
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -105,25 +103,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshit7103/Akshit7103/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Akshit7103/Akshit7103/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          CONNECT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on **AI, ML, and full-stack** projects — or just chatting about cool ideas.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitmahajan7)
-[![Email](https://img.shields.io/badge/Say_Hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshit.mahajan0703@gmail.com)
-
-<br/>
-
-⭐️ From [Akshit7103](https://github.com/Akshit7103) — thanks for stopping by!
 
 </div>
 
