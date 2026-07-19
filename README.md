@@ -26,20 +26,6 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧠 About Me
-
-<div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/Akshit7103/Akshit7103/main/assets/about.svg" alt="About Akshit Mahajan" />
-</div>
-
-- 🔭 I build **end-to-end AI applications** — backend, model/agent logic, web UI, and deployment
-- 🤖 Deep in **LLM & agentic systems**, **RAG**, **computer vision**, and **voice AI**
-- ⚡ **40+ production apps** shipped — I love turning "what if we could…" ideas into working tools
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         WHAT I BUILD                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
