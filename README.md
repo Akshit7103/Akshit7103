@@ -33,18 +33,13 @@
 
 <div align="center">
 
-**40+ production-grade AI applications** across six areas — each shipped end-to-end, from data to a live, interactive app.
+<sub>Six areas I design and ship across the AI stack — from data to a live, interactive app.</sub>
+
+<br/><br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/Akshit7103/Akshit7103/main/assets/build.svg" alt="What I build — LLM agents, RAG, computer vision, voice AI, ML, full-stack" />
 
 </div>
-
-| | Area | What that looks like |
-|:-:|------|----------------------|
-| 🤖 | **LLM & Agentic AI** | Multi-agent pipelines, tool/function-calling, structured JSON outputs, live streaming (SSE/NDJSON), OpenAI + local Ollama models |
-| 🔎 | **RAG & NLP** | Hybrid dense+sparse retrieval, rerankers, semantic chunking, citation-grounded Q&A, sentiment analysis |
-| 👁️ | **Computer Vision** | Real-time object detection & tracking (YOLOv8 + BoT-SORT), face recognition, OCR, image forensics |
-| 🎙️ | **Voice AI** | Real-time speech-to-speech agents, telephony bots, audio transcription (Whisper) |
-| 📊 | **ML & Analytics** | Classification, clustering, anomaly detection, forecasting, explainability (SHAP), interactive dashboards |
-| 🌐 | **Full-Stack & Deploy** | FastAPI / Flask / Next.js apps, SQL + vector databases, Docker & Render deployment |
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                             -->
