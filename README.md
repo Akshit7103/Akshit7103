@@ -31,10 +31,6 @@
 
 <div align="center">
 
-<sub>Six areas I design and ship across the AI stack — from data to a live, interactive app.</sub>
-
-<br/><br/>
-
 <img width="98%" src="https://raw.githubusercontent.com/Akshit7103/Akshit7103/main/assets/build.svg" alt="What I build — LLM agents, RAG, computer vision, voice AI, ML, full-stack" />
 
 </div>
